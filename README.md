@@ -28,7 +28,7 @@ My gratitude to these contributors for localizing RxJS-Fruits. This is what open
 Feel free to submit a pull request if you find any bugs (to see a list of active issues, visit the [Issues section](https://github.com/GregorBiswanger/rxjs-fruits/issues).
 Please make sure all commits are properly documented.
 
-## 🧪 Working with this Repo
+## 🧪 Working with this Repository
 To write own exercises, I wrote an Angular Schematics. [More information about this RxJS-fruits Schematics.](https://github.com/GregorBiswanger/rxjs-fruits-schematics)
 
 ## 😘 A big thank you
